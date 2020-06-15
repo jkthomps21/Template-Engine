@@ -48,3 +48,4 @@ This project was created by jkthomps21.
 Please contact them here to report any issues: <a href="mailto:jkthomps21@gmail.com">Report Issues</a>
 
 ## Screenshot(s)
+![image of webpage](https://user-images.githubusercontent.com/49950576/84716684-6e7e7780-af39-11ea-819d-baea4ed8102c.png)
